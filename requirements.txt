@@ -7,4 +7,5 @@ plotly
 matplotlib
 catboost
 xgboost
+dill
 # -e .
