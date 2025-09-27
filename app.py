@@ -38,6 +38,6 @@ def predict_datapoint():
     except Exception as e:
         logging.error(f"Error in prediction: {str(e)}")
         return render_template('home.html', error="An error occurred during prediction. Please try again.")
-
+#port=8080
 if __name__ == "__main__":
     app.run(host='0.0.0.0',port=8080)
