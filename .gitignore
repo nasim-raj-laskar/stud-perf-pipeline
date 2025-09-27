@@ -1,7 +1,8 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-
+sampleEC2.pem
+stud-perf_accessKeys.csv
 .Python
 build/
 develop-eggs/
