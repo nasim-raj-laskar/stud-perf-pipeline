@@ -160,12 +160,12 @@ AWS_ECR_LOGIN_URI=<account_id>.dkr.ecr.us-east-1.amazonaws.com
 
 
 ### Directory Structure
-```
+
 artifacts/          # Model artifacts and preprocessors
-logs/              # Application and system logs
-notebook/data/     # Training datasets
-static/           # Frontend assets
-templates/        # Jinja2 templates
+logs/               # Application and system logs
+notebook/data/      # Training datasets
+static/             # Frontend assets
+templates/          # Jinja2 templates
 ```
 
 ## 🚀 CI/CD Pipeline & Deployment Architecture
