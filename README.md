@@ -19,7 +19,7 @@ This project predicts student math performance using features like:
 ## 🏗️ Project Architecture
 
 ```
-ETE-project-3/
+student-perf/
 ├── src/                            # Source code
 │   ├── components/                 # ML pipeline components
 │   │   ├── data_ingestion.py       # Data loading and splitting
