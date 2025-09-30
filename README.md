@@ -1,6 +1,6 @@
 # Student Performance Prediction - Scalable MLOps Pipeline
 
-Comprehensive machine learning system implementing modern MLOps practices with automated CI/CD pipelines, containerized microservices architecture, and cloud-native deployment strategies. Features robust model serving, automated model retraining, and infrastructure-as-code deployment patterns.
+Comprehensive machine learning system implementing modern MLOps practices with automated CI/CD pipelines, containerized microservices architecture, and cloud-native deployment strategies. Features robust model serving, automated model retraining, and infrastructure-as-code deployment patterns..
 
 ## 🏛️ System Architecture
 
